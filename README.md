@@ -132,7 +132,7 @@ Using `max_length=128` was a deliberate trade-off — shorter sequences reduce m
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/slm-finetuning-lora.git
+git clone https://github.com/Angelkpoor/slm-finetuning-lora.git
 cd slm-finetuning-lora
 ```
 
@@ -145,7 +145,7 @@ pip install -r requirements.txt
 
 Open the notebook directly in Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/slm-finetuning-lora/blob/main/notebooks/tinyllama_lora_finetuning.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Angelkpoor/slm-finetuning-lora/blob/main/notebooks/tinyllama_lora_finetuning.ipynb)
 
 > ⚠️ **Runtime:** Set Colab runtime to **T4 GPU** before running. Go to `Runtime → Change runtime type → T4 GPU`.
 
